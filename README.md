@@ -1,0 +1,2 @@
+# smart-config-server
+ConfigurationServer
